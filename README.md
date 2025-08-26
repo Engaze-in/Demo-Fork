@@ -5,3 +5,5 @@ Merge Conflict Resolved
 this is forked branch 
 
 Main Repo Different line
+
+new line
